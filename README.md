@@ -22,9 +22,7 @@ Masala House is a responsive Indian restaurant website built using React and Boo
 - CSS
 
 ## Live Demo
+https://masala-house-react.vercel.app/ 
 
-[https://YOUR-VERCEL-LINK.vercel.app
-](https://masala-house-react.vercel.app/) 
 ## GitHub Repository
-
 https://github.com/mimdey/masala-house-react 
